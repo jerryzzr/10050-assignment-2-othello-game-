@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\10050ass3_othello.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\10050ass3_othello.dir/objects.a @CMakeFiles\10050ass3_othello.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\10050ass3_othello.dir/objects.a -Wl,--no-whole-archive  -o 10050ass3_othello.exe -Wl,--out-implib,lib10050ass3_othello.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\10050ass3_othello.dir\linklibs.rsp

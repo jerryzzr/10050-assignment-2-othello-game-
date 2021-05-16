@@ -1,0 +1,3 @@
+C:/Users/75729/CLionProjects/10050ass3 othello/cmake-build-debug/CMakeFiles/10050ass3_othello.dir
+C:/Users/75729/CLionProjects/10050ass3 othello/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/75729/CLionProjects/10050ass3 othello/cmake-build-debug/CMakeFiles/rebuild_cache.dir

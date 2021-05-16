@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/75729/CLionProjects/10050ass3 othello/functions.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
+-
+protypes.h
+C:/Users/75729/CLionProjects/10050ass3 othello/protypes.h
+
+C:/Users/75729/CLionProjects/10050ass3 othello/protypes.h
+
